@@ -77,7 +77,7 @@
 <br>
 
 ## 🪴 Практика и стажировка
-[<img src="/certificate.png" width="280px" hspace="10px" alt="Сертификат QA.Studio»">](https://raw.githubusercontent.com/zaoivan/zaoivan/main/certificate.png)
+[<img src="/certificate_zao_rus.png" width="280px" hspace="10px" alt="Сертификат QA.Studio Зао рус»">](https://raw.githubusercontent.com/zaoivan/zaoivan/main/certificate_zao_rus.png)
 <!-- 
 [<img src="/certificate_auto.png" width="280px" hspace="10px" alt="Сертификат об окончании стажировки»">](https://raw.githubusercontent.com/German-D/German-D/main/certificate_auto.png)
 [<img src="/certificate2.png" width="280px" hspace="10px" alt="Сертификат Kvadra»">](https://raw.githubusercontent.com/German-D/German-D/main/certificate2.png)
