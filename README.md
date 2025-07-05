@@ -1,32 +1,15 @@
-## Hi there 👋
-
-<!--
-**zaoivan/zaoivan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 ## Привет！ 👋
 Меня зовут Иван, я QA Engineer
 
 ## 📊 Статистика
 
-![](https://github-readme-stats.vercel.app/api?hide_rank=true&hide=issues,contribs&show_icons=true&locale=en&langs_count=8&card_width=320&username=German-D)
-![](https://github-readme-stats.vercel.app/api/top-langs/?layout=donut&langs_count=6&hide_progress=true&username=German-D)
+![](https://github-readme-stats.vercel.app/api?hide_rank=true&hide=issues,contribs&show_icons=true&locale=en&langs_count=8&card_width=320&username=zaoivan)
+![](https://github-readme-stats.vercel.app/api/top-langs/?layout=donut&langs_count=6&hide_progress=true&username=zaoivan)
 
 <!-- Выбор темы ↑↑: https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md --> 
 <!-- Настройка отображения ↑↑: https://github.com/anuraghazra/github-readme-stats/ --> 
 
-![](https://github-readme-activity-graph.vercel.app/graph?&theme=minimal&username=German-D)
+![](https://github-readme-activity-graph.vercel.app/graph?&theme=minimal&username=zaoivan)
 
 <!-- Выбор темы ↑↑: https://github.com/Ashutosh00710/github-readme-activity-graph/blob/main/THEMES.md --> 
 
