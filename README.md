@@ -1,21 +1,20 @@
-## Привет！ 👋
-Меня зовут Иван, я QA Engineer
+## Hello! / Привет！ 👋
+My name is Ivan, I'm a QA Engineer  
+Меня зовут Иван, я - тестировщик
+<!--  В Markdown перенос строки внутри абзаца делается добавлением двух или более пробелов в конце строки, перед нажатием Enter.  --> 
 
-## 📊 Статистика
-
+## 📊 Statistics / Статистика
 ![](https://github-readme-stats.vercel.app/api?hide_rank=true&hide=issues,contribs&show_icons=true&locale=en&langs_count=8&card_width=320&username=zaoivan)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?layout=donut&langs_count=6&hide_progress=true&username=zaoivan)
-
 <!-- Выбор темы ↑↑: https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md --> 
 <!-- Настройка отображения ↑↑: https://github.com/anuraghazra/github-readme-stats/ --> 
 
-![](https://github-readme-activity-graph.vercel.app/graph?&theme=minimal&username=zaoivan)
-
+<!-- ![](https://github-readme-activity-graph.vercel.app/graph?&theme=minimal&username=zaoivan)  --> 
 <!-- Выбор темы ↑↑: https://github.com/Ashutosh00710/github-readme-activity-graph/blob/main/THEMES.md --> 
 
 <br>
 
-## Тестирование API и интеграций
+## API and Integration testing / Тестирование API и интеграций
 <div>
   <img src="https://user-images.githubusercontent.com/25181517/192109061-e138ca71-337c-4019-8d42-4792fdaa7128.png" title="Postman" alt="Postman" width="40" height="40"/>&nbsp
   <img src="https://user-images.githubusercontent.com/25181517/192107860-9a9f0894-0e34-4ab3-964d-6297ee4c00e9.png" title="SOAP" alt="SOAP" width="40" height="40"/>&nbsp
@@ -25,7 +24,7 @@
   <img src="https://user-images.githubusercontent.com/25181517/117207330-263ba280-adf4-11eb-9b97-0ac5b40bc3be.png" title="Docker" alt="Docker" width="40" height="40"/>&nbsp
 </div>
 
-## Тестирование Web и Мобильных приложений
+## Testing of Web and Mobile applications / Тестирование Web и Мобильных приложений
 <div>
   <img src="https://user-images.githubusercontent.com/25181517/189715289-df3ee512-6eca-463f-a0f4-c10d94a06b2f.png" title="Figma" alt="Figma" width="40" height="40"/>&nbsp
   <img src="https://user-images.githubusercontent.com/25181517/192107854-765620d7-f909-4953-a6da-36e1ef69eea6.png" title="HTTP" alt="HTTP" width="40" height="40"/>&nbsp
@@ -36,7 +35,7 @@
   <img src="https://cdn.icon-icons.com/icons2/3053/PNG/512/charles_proxy_macos_bigsur_icon_190302.png" title="charles-proxy" alt="charles-proxy" width="40" height="40"/>&nbsp
 </div>
 
-## Логи и мониторинги
+## Logs and platforms of monitoring / Логи и платформы для мониторинга
 <div>
   <img src="https://raw.githubusercontent.com/maliceio/kibana/master/docs/kibana-logo.png" title="Kibana" alt="Kibana" width="40" height="40"/>&nbsp
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Sentry.svg" title="Sentry" alt="Sentry" width="40" height="40"/>&nbsp
@@ -44,7 +43,7 @@
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Bash-Dark.svg" title="Bash" alt="Bash" width="40" height="40"/>&nbsp
 </div>
 
-## Тестовая документация 
+## Test documentation / Тестовая документация 
   <div>
     <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/4b/7d/d4/4b7dd461-16e6-e245-af56-512fc8aa21e5/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/460x0w.webp" title="Yandex Tracker" alt="Yandex Tracker" width="40" height="40"/>&nbsp
     <img src="https://logosandtypes.com/wp-content/uploads/2023/03/clickup.svg" title="ClickUp" alt="ClickUp" width="40" height="40"/>&nbsp
@@ -52,7 +51,7 @@
     <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Notion-Dark.svg" title="Notion" alt="Notion" width="40" height="40"/>&nbsp
   </div>
 
-## Работа с базами данных
+## Working with databases / Работа с базами данных
 <div>
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/PostgreSQL-Dark.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>&nbsp
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/MongoDB.svg" title="Mongo DB" alt="Mongo DB" width="40" height="40"/>&nbsp
@@ -60,7 +59,7 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/DBeaver_logo.svg/512px-DBeaver_logo.svg.png" title="DBeaver" alt="DBeaver" width="40" height="40"/>&nbsp
 </div>
 
-## Автотесты
+## Autotests / Автотесты
 <div>
   <img src="https://user-images.githubusercontent.com/68279555/200387386-276c709f-380b-46cc-81fd-f292985927a8.png" title="Cypress" alt="Cypress" width="40" height="40"/>&nbsp
   <img src="https://user-images.githubusercontent.com/25181517/184103699-d1b83c07-2d83-4d99-9a1e-83bd89e08117.png" title="Selenium" alt="Selenium" width="40" height="40"/>&nbsp
@@ -69,32 +68,24 @@
   <img src="https://user-images.githubusercontent.com/25181517/192108376-c675d39b-90f6-4073-bde6-5a9291644657.png" title="GitLab" alt="GitLab" width="40" height="40"/>&nbsp
   <img src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png" title="Visual Studio Code" alt="Visual Studio Code" width="40" height="40"/>&nbsp
 </div>
-
 <!-- Выбор картинок ↑↑: https://github.com/tandpfun/skill-icons --> 
 <!-- Ещё выбор картинок ↑↑: https://github.com/marwin1991/profile-technology-icons/ --> 
-
-
+<br>
 <br>
 
-## 🪴 Практика и стажировка
-[<img src="/certificate_zao_rus.png" width="280px" hspace="10px" alt="Сертификат QA.Studio Зао рус»">](https://raw.githubusercontent.com/zaoivan/zaoivan/main/certificate_zao_rus.png)
+## 🪴 Practice and internship / Практика и стажировка
 <!-- 
 [<img src="/certificate_auto.png" width="280px" hspace="10px" alt="Сертификат об окончании стажировки»">](https://raw.githubusercontent.com/German-D/German-D/main/certificate_auto.png)
-[<img src="/certificate2.png" width="280px" hspace="10px" alt="Сертификат Kvadra»">](https://raw.githubusercontent.com/German-D/German-D/main/certificate2.png)
-[<img src="/certificate3.png" width="280px" hspace="10px" alt="Сертификат 4fresh»">](https://raw.githubusercontent.com/German-D/German-D/main/certificate3.png)
-[<img src="/stepic_ru.png" width="280px" hspace="10px" alt="Сертификат от степика»">](https://raw.githubusercontent.com/German-D/German-D/main/stepic_ru.png)
-
+ -->
+ <!-- Сертификат от степика  -->
 <br>
 
-## 🎒 Образование
-[<img src="/diploma_en2.png" width="280px" hspace="10px" alt="Диплом»">](https://raw.githubusercontent.com/German-D/German-D/main/diploma_en2.png)
-[<img src="/Letter10.png" width="280px" hspace="10px" alt="Рекомендательное письмо»">](https://raw.githubusercontent.com/German-D/German-D/main/Letter10.png)
-
-<br> -->
+## 🎒 Education / Образование
+[<img src="/certificate_zao_rus.png" width="280px" hspace="10px" alt="Сертификат QA.Studio Зао рус»">](https://raw.githubusercontent.com/zaoivan/zaoivan/main/certificate_zao_rus.png)
+<!-- Диплом, Рекомендательное письмо  -->
 <br>
 
-## 🤝 Контакт
+## 🤝 Contacts / Контакты
 [![Email](https://img.shields.io/badge/Email-3b5998?style=flat-square&logo=Mail.Ru&logoColor=white)](mailto:zaoivan@gmail.com)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/franklstone)
-
 <!-- Документация по виджету контактов ↑↑ https://shields.io/badges --> 
