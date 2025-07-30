@@ -74,14 +74,14 @@ My name is Ivan, I'm a QA Engineer
 <br>
 
 ## 🪴 Practice and internship / Практика и стажировка
-<!-- 
-[<img src="/certificate_auto.png" width="280px" hspace="10px" alt="Сертификат об окончании стажировки»">](https://raw.githubusercontent.com/German-D/German-D/main/certificate_auto.png)
- -->
+[<img src="/ivan_zaostrovskih-nyrogpt-en.png" width="280px" hspace="10px" alt="Certificate of completion of internship in NyroGPT»">](https://github.com/zaoivan/zaoivan/blob/main/ivan_zaostrovskih-nyrogpt-en.png)
+[<img src="/ivan_zaostrovskih-nyrogpt.png" width="280px" hspace="10px" alt="Сертификат об окончании стажировки в NyroGPT»">](https://github.com/zaoivan/zaoivan/blob/main/ivan_zaostrovskih-nyrogpt.png)
  <!-- Сертификат от степика  -->
 <br>
 
 ## 🎒 Education / Образование
-[<img src="/certificate_zao_rus.png" width="280px" hspace="10px" alt="Сертификат QA.Studio Зао рус»">](https://raw.githubusercontent.com/zaoivan/zaoivan/main/certificate_zao_rus.png)
+[<img src="/certificate_qastudio_zao_eng.png" width="280px" hspace="10px" alt="Certificate QA.Studio Zao eng»">](https://github.com/zaoivan/zaoivan/blob/main/certificate_qastudio_zao_eng.png)
+[<img src="/certificate_zao_rus.png" width="280px" hspace="10px" alt="Сертификат QA.Studio Зао рус»">](https://github.com/zaoivan/zaoivan/blob/main/certificate_zao_rus.png)
 <!-- Диплом, Рекомендательное письмо  -->
 <br>
 
