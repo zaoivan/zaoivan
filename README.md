@@ -16,11 +16,15 @@ My name is Ivan, I'm a PLC Programmer
 **PLC / ПЛК:**
 - DirectLogic DL06
 - DirectLogic DL205 (CPU DL250-2, DL260)
+- Delta AS228P-A (AS200 series)
 
 **HMI / Панели оператора:**
 - AutomationDirect C-more EA7, EA9
 - Weintek cMT3072XH
-- AWG EZ-S6M-F
+- AVG Automation (EZAutomation) EZTouch EZ-S6M-F
+
+**Servo drives / Сервоприводы:**
+- Delta ASDA-A2
 
 ## 🛠 Projects / Проекты
 - **Factory PLC project base** — centralized repository of PLC programs and documentation for plant machine tools: signal lists, mechanism descriptions, sequence diagrams, cross-machine comparison to unify logic and find old bugs (private)  
