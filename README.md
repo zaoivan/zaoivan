@@ -14,10 +14,6 @@ My name is Ivan, I'm a PLC Programmer
 - [PLC_DirectLogic](https://github.com/zaoivan/PLC_DirectLogic) — my DirectLogic tooling / мои инструменты для DirectLogic
 - [dl06-tooling](https://github.com/zaoivan/dl06-tooling) — contributor: editor tab, RU/EN interface / участник: вкладка редактора, русский интерфейс
 
-## 📊 Statistics / Статистика
-![](https://github-readme-stats.vercel.app/api?hide_rank=true&hide=issues,contribs&show_icons=true&locale=en&langs_count=8&card_width=320&username=zaoivan)
-![](https://github-readme-stats.vercel.app/api/top-langs/?layout=donut&langs_count=6&hide_progress=true&username=zaoivan)
-
 ## 🤝 Contacts / Контакты
 [![Email](https://img.shields.io/badge/Email-3b5998?style=flat-square&logo=Mail.Ru&logoColor=white)](mailto:zaoivan@gmail.com)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/franklstone)
