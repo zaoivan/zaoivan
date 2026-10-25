@@ -3,8 +3,8 @@ My name is Ivan, I'm a PLC Programmer
 Меня зовут Иван, я — программист ПЛК (промышленная автоматизация)
 
 ## 🎯 What I'm working on / Над чем работаю
-PLCs get discontinued while the machines they run keep working for decades. Sooner or later a program has to move from an old PLC to a new one — often from a different vendor. This is the topic I'm most interested in.  
-ПЛК снимают с производства, а станки, которыми они управляют, работают десятилетиями. Рано или поздно программу приходится переносить со старого контроллера на новый — часто другого производителя. Эта тема интересует меня больше всего.
+A PLC can become impossible to buy — discontinued, or simply no longer supplied to your country — while the machines it runs keep working for decades. Sooner or later a program has to move from an old PLC to a new one — often from a different vendor. This is the topic I'm most interested in.  
+Бывает, что ПЛК становится невозможно купить — его сняли с производства или перестали поставлять в вашу страну, — а станки, которыми он управляет, работают десятилетиями. Рано или поздно программу приходится переносить со старого контроллера на новый — часто другого производителя. Эта тема интересует меня больше всего.
 
 The problem: every vendor has its own dialect of Ladder Logic, so a program can't simply be copied from one PLC to another. There is a standard exchange format — **PLCopen XML (IEC 61131-10)** — but vendors support it only partially. I want my projects to be about this: vendor-neutral Ladder Logic and tools for moving programs between PLCs.  
 Проблема: у каждого производителя свой диалект Ladder Logic, и программу нельзя просто скопировать с одного ПЛК на другой. Есть стандартный формат обмена — **PLCopen XML (IEC 61131-10)**, — но производители поддерживают его лишь частично. Хочу посвятить свои проекты именно этому: универсальному Ladder Logic и инструментам для переноса программ между контроллерами.
@@ -43,17 +43,29 @@ For software developers the closest analogy is **assembler**: like IL, PLC progr
   Контроль версий для кода ПЛК (Git, SVN)
 
 ## 🔌 Hardware / Оборудование
-| Type / Тип | Manufacturer / Производитель | Series / Серия | Model / Модель | Software / Программа |
+| Type / Тип | Manufacturer / Производитель | Country / Страна | Series / Серия | Model / Модель |
 |---|---|---|---|---|
-| PLC / ПЛК | Koyo 🇯🇵 (sold by AutomationDirect 🇺🇸) | DirectLogic DL06 | — | DirectSOFT |
-| PLC / ПЛК | Koyo 🇯🇵 (sold by AutomationDirect 🇺🇸) | DirectLogic DL205 | CPU DL250-1, DL260, DL262 | DirectSOFT |
-| PLC / ПЛК | Delta Electronics 🇹🇼 | AS200 | AS228P-A | ISPSoft |
-| PLC / ПЛК | Siemens 🇩🇪 | SIMATIC | — | TIA Portal |
-| HMI / Панель | AutomationDirect 🇺🇸 | C-more | EA7, EA9 | C-more Programming Software |
-| HMI / Панель | AVG Automation 🇺🇸 (EZAutomation) | EZTouch | EZ-S6M-F | EZTouch Editor |
-| HMI / Панель | Weintek 🇹🇼 | cMT X | cMT3072XH | EasyBuilder Pro |
-| HMI / Панель | Siemens 🇩🇪 | SIMATIC HMI | — | TIA Portal (WinCC) |
-| Servo / Сервопривод | Delta Electronics 🇹🇼 | ASDA-A2 | — | ASDA-Soft |
+| PLC / ПЛК | Koyo (sold by AutomationDirect) | 🇯🇵 Japan / Япония | DirectLogic DL06 | — |
+| PLC / ПЛК | Koyo (sold by AutomationDirect) | 🇯🇵 Japan / Япония | DirectLogic DL205 | CPU DL250-1, DL260, DL262 |
+| PLC / ПЛК | Delta Electronics | 🇹🇼 Taiwan / Тайвань | AS200 | AS228P-A |
+| PLC / ПЛК | Siemens | 🇩🇪 Germany / Германия | SIMATIC | — |
+| HMI / Панель | AutomationDirect | 🇺🇸 USA / США | C-more | EA7, EA9 |
+| HMI / Панель | AVG Automation (EZAutomation) | 🇺🇸 USA / США | EZTouch | EZ-S6M-F |
+| HMI / Панель | Weintek | 🇹🇼 Taiwan / Тайвань | cMT X | cMT3072XH |
+| HMI / Панель | Siemens | 🇩🇪 Germany / Германия | SIMATIC HMI | — |
+| Servo / Сервопривод | Delta Electronics | 🇹🇼 Taiwan / Тайвань | ASDA-A2 | — |
+
+## 💾 Software / Программы
+| Software / Программа | For / Для | Latest version / Последняя версия | Released / Выпущена |
+|---|---|---|---|
+| DirectSOFT | DirectLogic DL06, DL205 | 6.3 | 12.2018 |
+| ISPSoft | Delta AS200 | updated regularly / обновляется | — |
+| TIA Portal (STEP 7, WinCC) | SIMATIC, SIMATIC HMI | updated regularly / обновляется | — |
+| C-more Programming Software | C-more EA9 | 6.81 | 09.2026 |
+| C-more Programming Software | C-more EA7 | 2.78 SP2 (last for EA7 / последняя для EA7) | 10.2017 |
+| EZTouch Editor | EZTouch EZ-S6M-F | no longer distributed by AutomationDirect / AutomationDirect больше не распространяет | — |
+| EasyBuilder Pro | Weintek cMT X | updated regularly / обновляется | — |
+| ASDA-Soft | Delta ASDA-A2 | updated regularly / обновляется | — |
 
 ## 🛠 Projects / Проекты
 - **PLC project documentation workflow** — keeping PLC programs under version control with signal lists, mechanism descriptions and sequence diagrams; comparing similar projects to unify logic and find old bugs (private)  
