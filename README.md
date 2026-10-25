@@ -13,18 +13,15 @@ My name is Ivan, I'm a PLC Programmer
   Контроль версий для кода ПЛК (Git, SVN)
 
 ## 🔌 Hardware / Оборудование
-**PLC / ПЛК:**
-- DirectLogic DL06
-- DirectLogic DL205 (CPU DL250-2, DL260)
-- Delta AS228P-A (AS200 series)
-
-**HMI / Панели оператора:**
-- AutomationDirect C-more EA7, EA9
-- Weintek cMT3072XH
-- AVG Automation (EZAutomation) EZTouch EZ-S6M-F
-
-**Servo drives / Сервоприводы:**
-- Delta ASDA-A2
+| Type / Тип | Manufacturer / Производитель | Series / Серия | Model / Модель |
+|---|---|---|---|
+| PLC / ПЛК | Koyo / AutomationDirect | DirectLogic DL06 | — |
+| PLC / ПЛК | Koyo / AutomationDirect | DirectLogic DL205 | CPU DL250-2, DL260 |
+| PLC / ПЛК | Delta Electronics | AS200 | AS228P-A |
+| HMI / Панель | AutomationDirect | C-more | EA7, EA9 |
+| HMI / Панель | AVG Automation (EZAutomation) | EZTouch | EZ-S6M-F |
+| HMI / Панель | Weintek | cMT X | cMT3072XH |
+| Servo / Сервопривод | Delta Electronics | ASDA-A2 | — |
 
 ## 🛠 Projects / Проекты
 - **Factory PLC project base** — centralized repository of PLC programs and documentation for plant machine tools: signal lists, mechanism descriptions, sequence diagrams, cross-machine comparison to unify logic and find old bugs (private)  
