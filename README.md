@@ -3,8 +3,8 @@ My name is Ivan, I'm a PLC Programmer
 Меня зовут Иван, я — программист ПЛК (промышленная автоматизация)
 
 ## 🎯 What I'm working on / Над чем работаю
-The AutomationDirect DirectLogic PLCs on our machines are no longer available to buy, so the plant is switching to Delta. My task is to move machine programs from the old PLCs to the new ones.  
-Контроллеры AutomationDirect DirectLogic на наших станках больше не купить, поэтому завод переходит на Delta. Моя задача — перенести программы станков со старых ПЛК на новые.
+PLCs get discontinued while the machines they run keep working for decades. Sooner or later a program has to move from an old PLC to a new one — often from a different vendor. This is the topic I'm most interested in.  
+ПЛК снимают с производства, а станки, которыми они управляют, работают десятилетиями. Рано или поздно программу приходится переносить со старого контроллера на новый — часто другого производителя. Эта тема интересует меня больше всего.
 
 The problem: every vendor has its own dialect of Ladder Logic, so a program can't simply be copied from one PLC to another. There is a standard exchange format — **PLCopen XML (IEC 61131-10)** — but vendors support it only partially. I want my projects to be about this: vendor-neutral Ladder Logic and tools for moving programs between PLCs.  
 Проблема: у каждого производителя свой диалект Ladder Logic, и программу нельзя просто скопировать с одного ПЛК на другой. Есть стандартный формат обмена — **PLCopen XML (IEC 61131-10)**, — но производители поддерживают его лишь частично. Хочу посвятить свои проекты именно этому: универсальному Ladder Logic и инструментам для переноса программ между контроллерами.
@@ -31,12 +31,12 @@ For software developers the closest analogy is **assembler**: like IL, PLC progr
 Программистам проще всего объяснить через **ассемблер**: как и в IL, программа ПЛК работает напрямую со входами, выходами, битами и регистрами железа. В DirectLogic ту же релейную программу можно посмотреть в виде мнемоники — списка команд, похожего на IL.
 
 ## ⚙️ What I do / Чем занимаюсь
-- Programming PLCs in Ladder Logic for grinding, turning and other machine tools  
-  Программирование ПЛК на Ladder Logic для шлифовальных, токарных и других станков
+- Programming PLCs in Ladder Logic  
+  Программирование ПЛК на Ladder Logic
 - Fixing sequence bugs, adding new functions and modernizing machines  
   Исправление ошибок в последовательностях механизмов, новый функционал и модернизация станков
-- Migrating programs from DirectLogic to Delta  
-  Перенос программ с DirectLogic на Delta
+- Migrating programs between PLCs of different vendors  
+  Перенос программ между контроллерами разных производителей
 - Building Python tools for PLC projects: parsing, diffing and linting program exports  
   Пишу инструменты на Python для ПЛК-проектов: разбор, сравнение и проверка экспортов программ
 - Version control for PLC code (Git, SVN)  
@@ -56,8 +56,8 @@ For software developers the closest analogy is **assembler**: like IL, PLC progr
 | Servo / Сервопривод | Delta Electronics 🇹🇼 | ASDA-A2 | — | ASDA-Soft |
 
 ## 🛠 Projects / Проекты
-- **Factory PLC project base** — centralized repository of PLC programs and documentation for plant machine tools: signal lists, mechanism descriptions, sequence diagrams, cross-machine comparison to unify logic and find old bugs (private)  
-  **База ПЛК-проектов завода** — централизованный репозиторий программ и документации для станков: списки сигналов, описания механизмов, циклограммы, сравнение проектов между станками для унификации логики и поиска старых ошибок (закрытый)
+- **PLC project documentation workflow** — keeping PLC programs under version control with signal lists, mechanism descriptions and sequence diagrams; comparing similar projects to unify logic and find old bugs (private)  
+  **Документирование ПЛК-проектов** — программы ПЛК под контролем версий вместе со списками сигналов, описаниями механизмов и циклограммами; сравнение похожих проектов для унификации логики и поиска старых ошибок (закрытый)
 - **dl06-tooling** — parser and linter for DirectLogic DL06 mnemonic exports; contributor: editor tab, RU/EN interface (private)  
   **dl06-tooling** — парсер и линтер экспортов программ DL06; участник: вкладка редактора, русский интерфейс (закрытый)
 - **Coming soon:** public examples based on manufacturers' open sample programs  
